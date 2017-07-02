@@ -1,8 +1,8 @@
 baseurl = "https://zackchauvin.netlify.com/"
 languageCode = "en-us"
-title = "Zack Chauvin"
+title = "Zack Chauvin | Software Engineer"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -12,10 +12,10 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Zack Chauvin"
-	description = "My awesome blog"
+	description = "Software Engineer, Outdoor Enthusiast, Musicals"
 
 	# Format dates with Go's time formatting
-	date_format = "2006-01-02"
+	date_format = "January 2, 2006"
 
 	# Add custom assets with their paths relative to the static folder
 	custom_js   = []
@@ -27,13 +27,9 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**I'm Zack**, a software engineer,<br> lover of the outdoors,<br> and musicals fanatic."
 		# The icons will be shown if you enter your username
-		twitter = "spf13"
-		github = "spf13"
-		dribbble = ""
-		facebook = ""
-		googleplus = ""
-		flickr = ""
-		linkedin = ""
+		github = "zchauvin"
+		facebook = "zack.chauvin.7"
+		linkedin = "https://www.linkedin.com/in/zack-chauvin-16a04688/"
 
 		copyright = [
 			"&copy; Zack Chauvin",
@@ -70,12 +66,12 @@ paginate = 10
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "smg.jpg"
-			title = "Sales Management Group"
+			title = "The Sales Management Group"
 			description = "Web Development Contractor"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
-			thumb = "revel.png"
+			thumb = "revel_edited.jpg"
 			title = "Revel"
 			description = "Co-Founder and Lead Developer"
 
@@ -89,8 +85,10 @@ paginate = 10
 			image = "fulls/06.jpg"
 			thumb = "ixperience.jpg"
 			title = "iXperience"
-			description = "Teaching Assistant"
+			description = "Data Science Teaching Assistant"
 
+  [params.rss]
+    hide = true
 
 	[params.contact]
 		hide  = false
