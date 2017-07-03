@@ -12,7 +12,7 @@ paginate = 10
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Zack Chauvin"
-	description = "Software Engineer, Outdoor Enthusiast, Musicals"
+	description = "Software Engineer | Outdoor Enthusiast | Musicals Fanatic"
 
 	# Format dates with Go's time formatting
 	date_format = "January 2, 2006"
