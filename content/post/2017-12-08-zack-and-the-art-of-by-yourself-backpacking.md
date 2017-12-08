@@ -7,8 +7,6 @@ categories: []
 tags: []
 ---
 
-# Zack and the Art of By-Yourself Backpacking
-
 A beautiful summer's day in Venice. I exit the train, excited to spend my single day exploring the watery kingdom. A raindrop threatens to ruin the scene - perplexed, I discover that the precipitation is not coming from the perfect blue sky, but instead from my hiking backpack. Some frantic inspection reveals that a glass litre-bottle full of olive oil has smashed to bits in the midst of everything I own, dousing clothes and prized possessions alike. Why was I carrying olive oil? Why in a glass bottle? Why wasn't it at least wrapped in a plastic bag? All good questions without any good answers.
 
 In the face of this calamity, I did the only thing I could - I threw back my head to the sky, and laughed. Laughed that I had been dumb enough to put glass and oil in my bag. Laughed that even though I was in Venice with hundreds of miles between me and anyone I knew, this was the biggest of my concerns. Laughed that while I would spend the entire day de-olive-oil-ifying my worldly possessions, I had the freedom to extend my stay in Venice to accommodate the setback. It was a beautiful moment that solidified the spirit of solo backpacking for me, but besides learning to roll with the punches, there are so many reasons to do a trip like this. My hope in this article is to convince you to solo backpack, and to make sure you know some of the things that I wish I knew. Not keeping a glass bottle of olive oil in your backpack is a good start.
