@@ -34,7 +34,6 @@ paginate = 10
 		copyright = [
 			"&copy; Zack Chauvin",
 			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
 		]
 
 
@@ -65,7 +64,7 @@ paginate = 10
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
-			thumb = "smg.jpg"
+			thumb = "smg_edited.jpg"
 			title = "The Sales Management Group"
 			description = "Web Development Contractor"
 
