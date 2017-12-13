@@ -3146,7 +3146,6 @@
 		text-decoration: none;
 	}
 
-
 /*
  * 	CUSTOM CSS
  */
@@ -3158,4 +3157,11 @@
 
  .article-image {
 	 max-width: 100%;
+ }
+
+ .article-caption {
+	 font-size: 70%;
+	 line-height: 20px;
+	 text-align: right;
+	 display: block;
  }

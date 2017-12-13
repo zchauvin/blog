@@ -1,10 +1,10 @@
-baseurl = "https://zackchauvin.netlify.com/"
+baseurl = "https://zackchauvin.com/"
 languageCode = "en-us"
 title = "Zack Chauvin | Software Engineer"
 theme = "hugo-strata-theme"
-disqusShortname = ""
+disqusShortname = "zackchauvin"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-111078059-1"
 # Define how many posts should appear on a site
 paginate = 10
 
@@ -54,7 +54,7 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "facebook.jpg"
 			title = "Facebook"
-			description = "Software Engineering Intern"
+			description = "Software Engineer on Social Good"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
