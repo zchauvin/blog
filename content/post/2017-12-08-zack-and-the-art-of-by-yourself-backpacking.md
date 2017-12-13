@@ -120,4 +120,4 @@ If you're looking for some inspiration as to where you might want to backpack, h
 
 If you made it all the way to this point, you hopefully now have some reasons to solo backpack, advice concerning how to have a great trip, and ideas about where to go. Whether it's during a summer vacation, a week off work or taking off for the winter holidays one year, I hope you get out there soon!
 
-I'd love to hear about the trips you've been on or are planning for the future, and to answer any questions that you have about backpacking, so comment in the section below or message me on Facebook if we're already friends! Additionally, since this is my first time blogging, if you have any constructive criticism about my writing or the website itself, I'd love to hear it. Happy exploring!
+I'd love to hear about the trips you've been on or are planning for the future, and to answer any questions that you have about backpacking, so comment below or message me on Facebook if we're already friends! Additionally, since this is my first time blogging, if you have any constructive criticism about my writing or the website itself, I'd love to hear it. Happy exploring!
