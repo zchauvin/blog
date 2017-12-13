@@ -1,4 +1,4 @@
-baseurl = "https://zackchauvin.com/"
+baseurl = "http://zackchauvin.com/"
 languageCode = "en-us"
 title = "Zack Chauvin | Software Engineer"
 theme = "hugo-strata-theme"
